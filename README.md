@@ -1,12 +1,14 @@
-## Hi there 👋
-
+## Hello, I'm Lucas. 👋
+- ✏️ I'm a second-year Computer Science student at Durham University.
+- 🔧 I love working on wacky projects that build off of something pre-existing. 
+- 🌱 I’m currently learning Bash scripting.
+- 🔭 I have some knowledge of Python and TypeScript/JavaScript.
+- 🏠 You can find out more about me or check out some of my projects on [my website](https://vrpst.github.io/).
 <!--
 **vrpst/vrpst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
